@@ -3,7 +3,7 @@
 ## 1. Deliverables included: 
 - model.py main.py scripts 
 - requiremnts.txt 
-- README_RB.md 
+- README.md 
 - Rubric Questions/Answers 
 
 ## 2. Overview
